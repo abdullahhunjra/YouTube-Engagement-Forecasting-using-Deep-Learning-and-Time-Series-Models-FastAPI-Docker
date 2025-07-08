@@ -5,4 +5,12 @@ __pycache__/
 *.ipynb
 .env
 *.csv
-notebooks/
+
+models/
+lstm_tuning/
+gru_tuning/
+next_30_days_forecast/
+all_models_forecast/
+title_img.png
+predictions/
+
